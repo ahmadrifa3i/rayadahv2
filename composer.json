@@ -16,7 +16,6 @@
     "fruitcake/laravel-cors": "^2.0",
     "guzzlehttp/guzzle": "^7.0.1",
     "james-heinrich/getid3": "^1.9",
-    "kreativdev/installer": "^1.0",
     "laravel-notification-channels/webpush": "6.0.0",
     "laravel/framework": "^9.0",
     "laravel/socialite": "^5.5",
