@@ -37,12 +37,12 @@
 
         <form class="login-form" action="{{ route('admin.auth') }}" method="POST">
           @csrf
-          <input type="text" name="username" placeholder="{{ __('Enter Username') }}" value=""/>
+          <input type="text" name="username" placeholder="{{ __('Enter Username') }}" value="admin"/>
           @if ($errors->has('username'))
             <p class="text-danger text-left">{{ $errors->first('username') }}</p>
           @endif
 
-          <input type="password" name="password" placeholder="{{ __('Enter Password') }}" value=""/>
+          <input type="password" name="password" placeholder="{{ __('Enter Password') }}" value="admin"/>
           @if ($errors->has('password'))
             <p class="text-danger text-left">{{ $errors->first('password') }}</p>
           @endif

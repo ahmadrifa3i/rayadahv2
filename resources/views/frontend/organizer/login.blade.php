@@ -60,7 +60,7 @@
             @csrf
             <div class="form-group">
               <label for="username">{{ __('Username') }} *</label>
-              <input type="text" name="username" value="" id="username" class="form-control"
+              <input type="text" name="username" value="organizer" id="username" class="form-control"
                 placeholder="{{ __('Enter Username') }}">
               @error('username')
                 <p class="text-danger">{{ $message }}</p>
@@ -68,7 +68,7 @@
             </div>
             <div class="form-group">
               <label for="password">{{ __('Password') }} *</label>
-              <input type="password" name="password" id="password" value="" class="form-control"
+              <input type="password" name="password" id="password" value="123456" class="form-control"
                 placeholder="{{ __('Enter Password') }}">
               @error('password')
                 <p class="text-danger">{{ $message }}</p>

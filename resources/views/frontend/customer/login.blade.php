@@ -95,14 +95,14 @@
             <div class="form-group">
               <label for="username">{{ __('Username') . ' *' }} </label>
               <input type="text" placeholder="{{ __('Enter Your Username') }}" name="username" id="username"
-                value="" class="form-control">
+                value="user" class="form-control">
               @error('username')
                 <p class="text-danger">{{ $message }}</p>
               @enderror
             </div>
             <div class="form-group">
               <label for="password">{{ __('Password') . ' *' }}</label>
-              <input type="password" name="password" value="" id="password" class="form-control"
+              <input type="password" name="password" value="123456" id="password" class="form-control"
                 placeholder="{{ __('Enter Password') }}">
               @error('password')
                 <p class="text-danger">{{ $message }}</p>
