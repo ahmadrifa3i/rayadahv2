@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  
+  <meta name="csrf-token" content="NaGLleqapu9aRN3B84E97o3ZVIJXnArrzQBsZT7I">
+
+  
+  <title>404</title>
+
+  
+  <link rel="shortcut icon" type="image/png" href="https://test.jhshopping.co.za/assets/admin/img/6547a182774c6.png">
+
+  
+  <!-- Google Fonts -->
+<link
+  href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap"
+  rel="stylesheet">
+<!-- FlatIcon Font -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/flaticon.css">
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/fontawesome.5.9.0.min.css">
+<!-- Bootstrap css -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/bootstrap.4.5.3.min.css">
+<!-- Magnific Popup -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/magnific-popup.min.css">
+<!-- Slick Slider -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/slick.css">
+<!-- jQuery UI CSS -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/jquery-ui.min.css">
+<!-- Padding Margin -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/spacing.min.css">
+<!-- Menu css -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/menu.css">
+<!-- datatables css -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/datatables.min.css">
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/dataTables.bootstrap4.css">
+<!-- dashboard css -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/dashboard.css">
+<!-- Menu css -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/menu.css">
+<!-- Main css -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/style.css">
+<!-- Responsive css -->
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/responsive.css">
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/daterangepicker.css" />
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/toastr.css">
+<link rel="stylesheet" href="https://test.jhshopping.co.za/assets/front/css/organizer.css">
+<style>
+  :root {
+    scroll-behavior: auto;
+    --base-color: #454545;
+    --heading-color: #030A15;
+    --primary-color: #22B0AF;
+    --light-color: #F7F7F7;
+    --base-font: 'Roboto', sans-serif;
+    --heading-font: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  .overlay:before {
+    position: absolute;
+    content: '';
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    opacity: 0.80;
+    background: #030A15;
+  }
+</style>
+
+  
+  </head>
+
+<body>
+
+  <!--====== 404 PART START ======-->
+  <section class="error-area">
+    <div class="container text-center padding-90">
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="https://test.jhshopping.co.za/assets/admin/img/404.png" alt="error">
+        </div>
+        <div class="col-md-12">
+          <div class="error-content">
+            <h4 class="mb-4">
+              404! Page Not Found
+            </h4>
+            <ul>
+              <li><a href="https://test.jhshopping.co.za" class="theme-btn">Return Home</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--====== 404 PART ENDS ======-->
+</body>
+
+</html>
